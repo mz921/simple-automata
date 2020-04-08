@@ -1,4 +1,4 @@
-## This is a simple and basic implement for NFA and DFA written by TypeScript. 
+## This is a simple and basic implementation for NFA and DFA written by TypeScript. 
 
 ### DONE
 
